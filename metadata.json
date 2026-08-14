@@ -1,0 +1,6 @@
+{
+  "name": "Elite Car Care",
+  "description": "Official website for Elite Car Care featuring End of Summer special pricing, mobile service area map, packages, satisfaction guarantee, and instant online booking form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
